@@ -150,11 +150,8 @@ DEPENDENCIES
   jquery-rails
   pg (= 0.15.1)
   rails (= 4.1.7)
-<<<<<<< HEAD
   rails_12factor (= 0.0.2)
-=======
   rspec-rails
->>>>>>> store
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   spring
