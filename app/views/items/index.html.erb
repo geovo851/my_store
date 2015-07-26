@@ -1,5 +1,7 @@
 <h1>Items</h1>
 
+<p><%= link_to 'Добавить товар', new_item_path %></p>
+
 <% if @items.empty? %>
   <b>No items in store</b>
 <% else %>
